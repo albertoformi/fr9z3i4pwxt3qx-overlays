@@ -1,0 +1,16 @@
+{
+    "name": "albertoformi/fR9z3I4PWXT3qx-overlays",
+    "description": "",
+    "keywords": ["wordpress", "plugin"],
+    "homepage": "https://github.com/albertoformi/fR9z3I4PWXT3qx-overlays",
+    "authors": [
+      {
+        "name": "dv popup overlays",
+        "homepage": "https://github.com/albertoformi/fR9z3I4PWXT3qx-overlays"
+      }
+    ],
+    "type": "wordpress-plugin",
+    "require": {
+      "php": ">=8.0"
+    }
+  }
